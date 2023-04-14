@@ -11,8 +11,9 @@ from constants import (
     HTTP_PROVIDER,
 )
 
-
 # Connect to DYDX
+
+
 def connect_dydx():
 
     # Create Client Connection
